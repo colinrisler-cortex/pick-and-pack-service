@@ -1,0 +1,12 @@
+openapi: "3.0.0"
+info:
+  title: "pick-and-pack-service"
+  x-cortex-tag: "pick-and-pack-service"
+  x-cortex-description: "Directed picking and packing workflow engine"
+  x-cortex-owners:
+    - type: group
+      name: "Fulfillment Engineering Team"
+  x-cortex-custom-metadata:
+    apm_id: "apm0001401"
+    apm_name: "Order Fulfillment Platform"
+    cost_center: "CC-4410"
